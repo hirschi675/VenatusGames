@@ -1,0 +1,46 @@
+body {
+	margin: 0 auto;
+	background-color: black;
+}
+
+.space {
+	position: relative;
+	margin: 0 2px;
+	left: 10px;
+	top: 10px;
+	background-color: #3B5323;
+	width: 75px;
+	height: 75px;
+	display: inline-block;
+}
+
+.hover {
+	background-color: #4C6434;
+}
+
+#board {
+	position: absolute;
+	margin: auto;
+	border: solid 2px white;
+	width: 650px;
+	height: 650px;
+}
+.circle {
+	position: relative;
+	margin:2.5px auto auto;
+	background: black;
+	height: 70px;
+	width: 70px;
+	border-radius: 50%;
+}
+.wcircle {
+	background-color: white;
+}
+.bcircle {
+	background-color: black;
+}
+.spots {
+	height: 10px;
+	width: 10px;
+	background: black;
+}

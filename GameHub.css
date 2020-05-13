@@ -1,0 +1,146 @@
+body {
+	margin: 0 auto;
+	background-color: black;
+}
+a {
+	text-decoration: none;
+}
+
+#top {
+	background-color: #991b35;
+	height: 100px;
+	width: 100%;
+	text-align: center;
+	text-align: middle;
+	padding-top: 35px;
+	text-shadow: 2px 2px black;
+	-webkit-user-select: none;
+	cursor: default;
+}
+#line {
+	background-color: #660000;
+	height: 6px;
+	width: 100%;
+}
+
+#main {
+	margin: auto;
+	background-color: #5e5f5f;
+	height: 500px;
+	width: 350px;
+	border: solid white 5px;
+	border-radius: 10px;
+}
+
+#title {
+	margin: auto;
+	text-align: center;
+	margin-top: 30px;
+	text-shadow: 2px 2px lightgreen;
+}
+
+#main2 {
+	margin: auto;
+	background-color: #5e5f5f;
+	height: 650px;
+	width: 650px;
+	border: solid black 5px;
+
+}
+
+#games {
+	margin: auto;
+	margin-top: 60px;
+	text-align: center;
+	text-shadow: 2px 2px lightblue;
+	-webkit-user-select: none;
+	cursor: default;
+	font-size: 60pt;
+}
+.border1:hover { 
+    background-color: #999999;
+    border-color: white;
+    color: #93DB70;
+}
+.border2:hover { 
+    background-color: #999999;
+    border-color: white;
+    color: #93DB70;
+}
+.border3:hover { 
+    background-color: #999999;
+    border-color: white;
+    color: #93DB70;
+}
+.border4:hover { 
+    background-color: #999999;
+    border-color: white;
+    color: #93DB70;
+}
+.border5:hover { 
+    background-color: #999999;
+    border-color: white;
+    color: #93DB70;
+}
+
+.border1 {
+	margin: auto;
+	margin-top: 25px;
+	border: solid white 4px;
+	background-color: #bababa;
+	width: 300px;
+	height: 50px;
+	border-radius: 10px;
+	text-align: center;
+	cursor: pointer;
+	-webkit-user-select: none;
+	text-decoration: none;
+}
+.border2 {
+	margin: auto;
+	margin-top: 40px;
+	border: solid white 4px;
+	background-color: #bababa;
+	width: 300px;
+	height: 50px;
+	border-radius: 10px;
+	text-align: center;
+	cursor: pointer;
+	-webkit-user-select: none;
+}
+.border3 {
+	margin: auto;
+	margin-top: 40px;
+	border: solid white 4px;
+	background-color: #bababa;
+	width: 300px;
+	height: 50px;
+	border-radius: 10px;
+	text-align: center;
+	cursor: pointer;
+	-webkit-user-select: none;
+}
+.border4 {
+	margin: auto;
+	margin-top: 40px;
+	border: solid white 4px;
+	background-color: #bababa;
+	width: 300px;
+	height: 50px;
+	border-radius: 10px;
+	text-align: center;
+	cursor: pointer;
+	-webkit-user-select: none;
+}
+.border5 {
+	margin: auto;
+	margin-top: 40px;
+	border: solid white 4px;
+	background-color: #bababa;
+	width: 300px;
+	height: 50px;
+	border-radius: 10px;
+	text-align: center;
+	cursor: pointer;
+	-webkit-user-select: none;
+}
